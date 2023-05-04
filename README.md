@@ -4,4 +4,4 @@ Um OSINT (Open Source Intelligence) Framework é uma estrutura que fornece uma a
 
 ![Texto alternativo](https://i.ibb.co/GczZ9rC/Fire-Shot-Capture-175-OSINT-Toggle-List-In-Work-569jjdgjkw-neocities-org.png)
 
-Link: https://advanced-osint-framework.webnode.page/
+😆 Link: https://advanced-osint-framework.webnode.page/
